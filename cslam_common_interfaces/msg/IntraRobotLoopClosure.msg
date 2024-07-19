@@ -3,4 +3,4 @@ uint32 keyframe1_id
 
 bool success
 
-geometry_msgs/Transform transform
+geometry_msgs/PoseWithCovariance pose
